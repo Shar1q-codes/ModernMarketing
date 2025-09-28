@@ -232,7 +232,7 @@ export default function HomePage() {
         <div className="container">
           <div className="section-head">
             <p className="section-label">Projects</p>
-            <h2>Trusted by Hyderabad's fastest moving build-outs</h2>
+            <h2>Trusted by Hyderabad&rsquo;s fastest moving build-outs</h2>
             <p className="section-lead">
               Logistics discipline, installer coordination, and on-call brand support help these sites deliver without surprises.
             </p>
@@ -293,7 +293,7 @@ export default function HomePage() {
 
           <div className="cta-card">
             <div>
-              <h3>Let's plan your next milestone</h3>
+              <h3>Let&rsquo;s plan your next milestone</h3>
               <p>
                 We coordinate dispatches dawn-to-dusk, send installer crews, and keep site leads updated with polite, proactive check-ins.
               </p>
@@ -340,3 +340,4 @@ export default function HomePage() {
     </main>
   );
 }
+
