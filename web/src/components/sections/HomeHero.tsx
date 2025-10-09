@@ -16,7 +16,7 @@ export function HomeHero() {
         />
         <div className="absolute inset-0 bg-gradient-to-br from-zinc-950/80 via-zinc-900/70 to-teal-700/60" />
       </div>
-      <div className="relative mx-auto flex max-w-6xl flex-col gap-8 px-6 py-28 md:flex-row md:items-center">
+      <div className="relative mx-auto flex max-w-6xl flex-col gap-8 px-6 py-16 sm:py-20 md:py-28 md:flex-row md:items-center">
         <div className="md:w-3/5 space-y-6 rounded-3xl bg-black/40 p-8 shadow-lg ring-1 ring-white/10 backdrop-blur">
           {hero.tagline && (
             <p className="text-sm font-semibold uppercase tracking-[0.35em] text-[#FDBA74] drop-shadow-[0_4px_10px_rgba(0,0,0,0.4)]">
@@ -47,3 +47,4 @@ export function HomeHero() {
     </section>
   );
 }
+
