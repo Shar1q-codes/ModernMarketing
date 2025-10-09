@@ -28,7 +28,7 @@ export default function ContactPage() {
                 Visit our depots or request a callback
               </h2>
               <p className="mt-3 text-sm text-sky-100/80">
-                Stop by our Hyderabad locations or share project details through the form and we'll line up the right inventory.
+                Stop by our Hyderabad locations or share project details through the form and we&apos;ll line up the right inventory.
               </p>
             </div>
             <ContactDetails />

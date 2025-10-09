@@ -410,6 +410,61 @@ export const siteContent = {
         "Commercial and residential buildings....E.T.C",
       ],
     },
+    constructionGallery: {
+      heading: "On-Site Execution Snapshots",
+      intro:
+        "Captured dispatches from marquee developments where Modern Marketing Associates supplied structural, finishing, and MEP materials.",
+      sites: [
+        {
+          name: "RGI Airport Expansion",
+          location: "Shamshabad, Hyderabad",
+          summary:
+            "Airside upgrades and terminal retrofits supported by continuous cement, AAC, and finishing supply.",
+          images: [
+            {
+              src: "/images/projects/rgi-airport-1.jpg",
+              alt: "Steel and concrete works underway at the RGI Airport expansion site",
+            },
+            {
+              src: "/images/projects/rgi-airport-2.jpg",
+              alt: "Construction crews coordinating crane lifts at RGI Airport",
+            },
+          ],
+        },
+        {
+          name: "T-Hub Innovation Campus",
+          location: "Raidurg, Hyderabad",
+          summary:
+            "High-spec office cores and collaborative labs built with lightweight blocks, adhesives, and waterproofing systems.",
+          images: [
+            {
+              src: "/images/projects/t-hub-1.jpg",
+              alt: "Interior partition crews installing AAC blocks at T-Hub campus",
+            },
+            {
+              src: "/images/projects/t-hub-2.jpg",
+              alt: "Tower crane lifting materials for the T-Hub innovation campus",
+            },
+          ],
+        },
+        {
+          name: "Raheja Mindspace Towers",
+          location: "HITEC City, Hyderabad",
+          summary:
+            "Grade-A commercial towers leveraging AAC, premium cement, and façade-ready adhesives from Modern Marketing Associates.",
+          images: [
+            {
+              src: "/images/projects/raheja-mindspace-1.jpg",
+              alt: "Progress shot of Raheja Mindspace tower structure in Hyderabad",
+            },
+            {
+              src: "/images/projects/raheja-mindspace-2.jpg",
+              alt: "Workforce installing façade systems at Raheja Mindspace",
+            },
+          ],
+        },
+      ],
+    },
     materialsShowcase: {
       heading: "Strategic Material Alliances",
       intro:
