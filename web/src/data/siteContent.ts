@@ -148,6 +148,12 @@ export const siteContent = {
         rangeTitle: "Our Product Range",
         products: ["Plastic Pipes", "Steel Pipes", "Plumbing Acceseries"],
       },
+      {
+        title: "Authorised Distributors of JK Putty and White Cement",
+        distributors: [],
+        rangeTitle: "Our Product Range",
+        products: ["JK Wall Putty", "JK POP", "JK White Cement"],
+      },
     ],
     dealers: {
       heading: "Top BRANDS We Deal In",
@@ -326,6 +332,11 @@ export const siteContent = {
           "Tile and stone adhesives from MYK Laticrete, Roff, and Vbond engineered for heavy load flooring and facade installs.",
       },
       {
+        title: "Putty & White Cement",
+        description:
+          "Surface finishing solutions from JK delivering putty, POP, and white cement systems for smooth, high-lumen interiors.",
+      },
+      {
         title: "Plumbing Materials",
         description:
           "Comprehensive piping and fittings kits from Ashirvaad, Astral, Birla, and Sudhakar for residential and commercial water systems.",
@@ -371,6 +382,12 @@ export const siteContent = {
         brands: ["MYK Laticrete", "Roff", "Vbond"],
         notes:
           "Tile, stone, and glass solutions with extended open times and higher bond strengths suited for premium cladding.",
+      },
+      {
+        title: "Putty & White Cement",
+        brands: ["JK Wall Putty", "JK POP", "JK White Cement"],
+        notes:
+          "Interior-ready finishing products engineered for silky smooth coats, crisp detailing, and bright paint outcomes.",
       },
       {
         title: "Plumbing Essentials",

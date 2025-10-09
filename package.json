@@ -6,6 +6,7 @@
     "build": "pnpm --dir web run build",
     "dev": "pnpm --dir web run dev",
     "start": "pnpm --dir web run start",
-    "lint": "pnpm --dir web run lint"
+    "lint": "pnpm --dir web run lint",
+    "export": "next export"
   }
 }
